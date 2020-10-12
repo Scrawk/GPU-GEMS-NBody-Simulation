@@ -8,6 +8,5 @@ In some simulations a Euler model is used, where space is subdivided into discre
 
 For some things a more natural approach is to use a particle system. This is where NBody simulations come in. They are not domain bound, are less prone to numerical errors and use less memory. While the math is relatively simple compared to a Euler simulation the method used to get the algorithm to map to the GPU makes for a more complicated shader. The shader requires some of the more advanced Direct compute features such as shared memory and thread synchronization. This make NBody simulations a good place to start learning more about Direct Compute.
 
-You can download a Unity package [here](https://app.box.com/s/qowlutyoph9gwk9xtxd67guzoemsufin).
 
-![NBody simulation](https://static.wixstatic.com/media/1e04d5_283a6a7ecb3a433bbc7f8d094870b13e~mv2.jpg/v1/fill/w_550,h_550,al_c,q_80,usm_0.66_1.00_0.01/1e04d5_283a6a7ecb3a433bbc7f8d094870b13e~mv2.jpg)
+![NBody simulation](./Media/NBodySim.jpg)
