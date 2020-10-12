@@ -236,7 +236,7 @@ namespace NBodySimProject
             m_particleMat.SetPass(0);
             m_particleMat.SetBuffer("_Positions", m_positions[READ]);
 
-            Graphics.DrawProcedural(MeshTopology.Points, m_numBodies);
+            Graphics.DrawProceduralNow(MeshTopology.Points, m_numBodies);
         }
 
         void OnDestroy()

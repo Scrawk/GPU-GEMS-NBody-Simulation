@@ -3,3 +3,10 @@
 ################################################################################
 
 /UserSettings
+/Temp
+/obj/Debug
+/Logs
+/Library
+/GPU-GEMS-NBody-Simulation.sln
+/Assembly-CSharp.csproj
+/.vs/GPU-GEMS-NBody-Simulation/v16/TestStore/0
