@@ -10,3 +10,12 @@ For some things a more natural approach is to use a particle system. This is whe
 
 
 ![NBody simulation](./Media/NBodySim.jpg)
+
+List of physics projects
+
+[Position-Based-Dynamics](https://github.com/Scrawk/Position-Based-Dynamics)\
+[PBD-Fluid-in-Unity](https://github.com/Scrawk/PBD-Fluid-in-Unity)\
+[GPU-GEMS-NBody-Simulation](https://github.com/Scrawk/GPU-GEMS-NBody-Simulation)\
+[GPU-GEMS-2D-Fluid-Simulation](https://github.com/Scrawk/GPU-GEMS-2D-Fluid-Simulation)\
+[CyclonePhysicsEngine](https://github.com/Scrawk/CyclonePhysicsEngine)\
+[2D-Deformable-body-in-Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity)
